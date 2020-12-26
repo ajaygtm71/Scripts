@@ -10,3 +10,6 @@ def multi_or_sum(num1,num2):
 
 result = multi_or_sum(40,30)
 print("The result is:",result)
+
+# for stash
+print("Here we will learn Stash")
