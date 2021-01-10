@@ -2,7 +2,7 @@
 pipeline {
   agent {
         node {
-            label 'master'
+            label 'ec2-linux-instance'
         }
     }
 
